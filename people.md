@@ -7,10 +7,10 @@ published: true
 
 ## Who we are... .
 
-### Professors
-
-### Associate Professors
-
-### Senior Lecturers.
-
-To be populated 
+* [Johannes Hönekopp](https://www.northumbria.ac.uk/about-us/our-staff/h/johannes-honekopp/)
+* Connor Leslie
+* [Kris McCarty](https://www.northumbria.ac.uk/about-us/our-staff/m/kris-mccarty/)
+* [Amy Newman](https://www.northumbria.ac.uk/about-us/our-staff/n/amy-newman/)
+* [Gillian Pepper](https://gillianpepper.com/)
+* [Thomas Pollet](https://tvpollet.github.io)
+* [Tamsin Saxton](https://www.northumbria.ac.uk/about-us/our-staff/s/tamsin-saxton/)
